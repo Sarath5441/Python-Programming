@@ -1,2 +1,3 @@
 a=int(input())
-print(a*1,a*2,a*3,a*4,a*5)
+for i in range(1,6):
+  print(a*i,end=" ")
