@@ -1,2 +1,2 @@
-a=list(map(int,input().split()))
-print(max(a))
+o=list(map(int,input().split()))
+print(max(o))
