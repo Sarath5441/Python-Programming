@@ -1,2 +1,2 @@
-nu=input()
-print(len(nu))
+jb=input()
+print(len(jb))
