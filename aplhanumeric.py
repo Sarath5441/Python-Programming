@@ -1,5 +1,5 @@
-au=input()
-if(au.isalpha()==True or au.isnumeric==True):
+ao=input()
+if(ao.isalpha()==True or ao.isnumeric==True):
   print("Yes")
 else:
   print("No")
