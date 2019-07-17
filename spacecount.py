@@ -1,2 +1,2 @@
-s=input()
-print(s.count(' '))
+v=input()
+print(v.count(' '))
