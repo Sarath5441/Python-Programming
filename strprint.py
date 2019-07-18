@@ -1,2 +1,2 @@
-f=str(input())
-print(f)
+fu=input()
+print(fu)
