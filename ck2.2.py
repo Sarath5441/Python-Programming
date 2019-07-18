@@ -1,4 +1,4 @@
-x=int(input())
+x=input()
 temp=x
 rev=0
 while(x>0):
