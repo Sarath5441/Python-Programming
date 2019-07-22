@@ -1,3 +1,6 @@
-m,nl=list(map(int,input()))
-h=m**2+nl**2
-print(h)
+mh=list(map(int,input()))
+y=0
+for j in mh:
+   n=j**2
+   y+=n
+print(y)  
